@@ -1,0 +1,26 @@
+_repo: Step-by-Step--or-Tidy-s-Way-to-Freedom_1052
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Tract Society
+    alias: Society, American Tract
+    gutenberg_agent_id: '524'
+    url: http://www.gutenberg.org/2009/agents/524
+    wikipedia: http://en.wikipedia.org/wiki/American_Tract_Society
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Slavery -- United States -- Religious aspects'
+- !lcc 'PZ'
+- !lcsh 'Slaves -- United States -- Religious life'
+- GITenberg
+title: Step by Step; Or, Tidy's Way to Freedom
+url: http://www.gutenberg.org/ebooks/1052
